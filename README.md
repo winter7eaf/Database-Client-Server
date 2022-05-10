@@ -1,6 +1,8 @@
 # Database-Client-Server
 
----
+Java (IntelliJ IDEA)
+
+May 2022
 - assess JDBC and Java Networks skills
 
 - implement a Multi Client–Server application using the TCP protocol
