@@ -1,4 +1,4 @@
-# Database-Client-Server
+# Database Client-Server
 
 Java (IntelliJ IDEA)
 
