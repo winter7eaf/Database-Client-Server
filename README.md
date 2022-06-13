@@ -3,13 +3,13 @@
 Java (IntelliJ IDEA)
 
 May 2022
-- assess JDBC and Java Networks skills
+- Assess JDBC and Java Networks skills
 
-- implement a Multi Client–Server application using the TCP protocol
+- Implement a Multi Client–Server application using the TCP protocol
 
-- server replies with the number of albums for that particular artist, until the user types ‘stop'
+- Server replies with the number of albums for that particular artist, until the user types ‘stop'
 
-- SQL query is a simple inner join executed on the database
+- The SQL query is an inner join executed on the database
 
 ---
 For this project, use the ’Music’ database
